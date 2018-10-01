@@ -1,0 +1,17 @@
+Step 1:
+
+Download Apache Tinkerpop ->   https://tinkerpop.apache.org/downloads.html
+This includes tinkerpop server, utilities and tinkergraph
+
+Step 2:
+Open /bin/gremlin (windows batch file) shell
+
+Step 3:       
+         \,,,/
+         (o o)
+-----oOOo-(3)-oOOo-----
+plugin activated: tinkerpop.server
+plugin activated: tinkerpop.utilities
+plugin activated: tinkerpop.tinkergraph
+
+You should see above message on the console.
